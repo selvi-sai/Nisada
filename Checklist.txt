@@ -1,0 +1,4 @@
+Python 3.x
+Pip commands
+AWS Lambda
+S3 skills
